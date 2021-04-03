@@ -26,6 +26,12 @@ Avec les animaux, l’utilisateur peut également ajouter des oiseaux dans le sy
 * Ajouter des produits liés à l’animal pour les ventes
 * Gardez une trace de vos ventes
 
+## Résultats attendus :
+* Schéma de la base de données
+* Requêtes SQL de la création des tables
+* Diagramme UML (Use cas, séquence et classe)
+* Lien Repo de l'application
+
 
 
 
